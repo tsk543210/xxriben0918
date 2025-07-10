@@ -16,4 +16,4 @@
 
 站点的安全性也是用户选择的重要标准。优质平台通常会使用HTTPS加密技术，保护用户的个人信息不受侵犯。站点还会定期更新资源，避免出现恶意广告和病毒，确保用户在安全、可靠的环境中享受内容。
 
-<span style="display:none;">[Canonical link]( )</span>
+<span style="display:none;">[Canonical link](https://github.com/tsk543210/xxriben0918 )</span>
